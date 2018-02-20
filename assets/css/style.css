@@ -97,11 +97,9 @@ html, body{
   
 }
 #scroll{
-	/*background-color: #fff;*/
   box-sizing: border-box;
 }
 .grid { 
-	/*left: 10%; */
 	top: 10%; 
 	right: 10%; 
 	color: #fff; 
@@ -112,13 +110,8 @@ html, body{
 	position: absolute;
 	padding: 2em;
 }
-#caption h1 { 
-	/*font-size: 3.5em; */
-	/*margin-bottom: 0.5em; */
-	/*margin-top: 1em; */
-} 
+
 #caption span { 
-	/*font-size: 1.5rem; */
 	padding: 1px;
 } 
 .bgblue { background-color: #0daad0; }
@@ -130,7 +123,6 @@ html, body{
 .row .col-sm-6{ padding: 0; }
 .row .col-sm-4{ padding: 0; }
 .col-sm-12 { padding: 0; }
-/*.col-sm-8 { padding:0; }*/
 .row img{
 	display: block;
 	width: 100%;
@@ -275,7 +267,6 @@ html, body{
 	Footer
 \*------------------------------------*/
 .bg-dark {
-    /*background-color: #1C1D21;*/
     padding-top: 60px;
     padding-bottom: 20px;
 }
@@ -290,7 +281,7 @@ html, body{
 }
 
 .footer-logo>a>img {
-    /*max-height: 80px;*/
+    
     width: 30px;
 }
 
@@ -342,10 +333,6 @@ html, body{
   	cursor: pointer;
 }
 
-/*#back-to-top:after {
-    content: "\f106";
-    font-family: 'BebasNeueRegular';
-}*/
 
 #back-to-top:hover {
     opacity: 0.8;
